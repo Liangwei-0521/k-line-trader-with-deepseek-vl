@@ -4,10 +4,10 @@
 
 ## 模型下载 1
 https://hf-mirror.com/
-./hfd.sh deepseek-ai/deepseek-vl2-small --local-dir /root/autodl-tmp
+./hfd.sh deepseek-ai/deepseek-vl2 --local-dir /root/autodl-tmp
 
 
-## Outpu (example)
+## Output (example)
 
 {
         "trading date": "2020-02-03",
